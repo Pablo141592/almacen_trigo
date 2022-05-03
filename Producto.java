@@ -1,2 +1,6 @@
-Proyecto creado por Ricardo Trigo 
-fecha :02/05/2022
+public class Producto{
+	String nombre;
+	String fecha;
+	doble precio_compra;
+	double precio_venta;
+}
